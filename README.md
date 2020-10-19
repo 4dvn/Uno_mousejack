@@ -1,4 +1,4 @@
-μC Mousejack
+Uno Mousejack
 -------------
 
 Microcontroller Mousejack is a project to get [Mousejack](https://www.mousejack.com) attacks into a small embedded device, with the form factor of a key chain.
